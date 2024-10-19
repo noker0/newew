@@ -1,0 +1,13 @@
+.navbar{
+    background: red;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a{
+    color: white;
+    font-size: 20px;
+    padding: 12px;
+    text-decoration: none;
+}
